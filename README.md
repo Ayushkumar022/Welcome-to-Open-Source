@@ -52,6 +52,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Harsh Pandey</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://ayushkumar022.github.io/">
+                    <img src="https://github.com/Ayushkumar022.png" width="100px;" alt="Ayush Kumar"/>
+                    <br />
+                    <sub><b>Harsh Pandey</b></sub>
+                </a>
+            </td>
         </tr>
     </tbody>
 </table>
